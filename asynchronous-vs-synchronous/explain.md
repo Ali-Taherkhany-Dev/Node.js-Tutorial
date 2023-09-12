@@ -10,7 +10,7 @@ means that JavaScript doesn't wait for the response of an API call, an Ajax requ
 
 ## Higher Order Functions
 In synchronous programming, functions that require other functions as parameters are called Higher Order Functions.
-[./index.js]
+[](./index.js)
 
 ### Hints
 - Most functions/methods that naturally run asynchronously require a callback function as a parameter.
