@@ -1,6 +1,8 @@
 # Asynchronous & Synchronous Differences
+JS engine first run all sync code before running async code.
 1. Return value (result & promise object)
 2. Getting value (await & .then)
+3. Async &rarr; non-blocking - Sync &rarr; blocking
 
 ## Single-Threaded!
 uses only one thread. Executes one thing at a time. JavaScript is single-threaded, so it executes the current line of code before moving to the next.   
